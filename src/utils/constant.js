@@ -1,0 +1,1 @@
+export const base_url = "https://codehelp-apis.vercel.app/api/get-blogs"
